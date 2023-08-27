@@ -31,7 +31,7 @@
                         </div>
                     </div>
                     <div class="p-2 w-full">
-                    <button class="flex mx-auto text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg" type="submit">送信</button>
+                    <button class="flex mx-auto text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg" type="submit">送信</button>
                     </div>
                 </form>
             </div>
