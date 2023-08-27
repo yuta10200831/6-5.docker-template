@@ -9,6 +9,7 @@ if (empty($name) || empty($food_awnser) || empty($hobby_awnser))
   $errors[] = '「回答者名」 「好きな食べ物」 「趣味」のどれかが記入されておりません！';
 }
 
+// データベースへの接続
   $dbUserName = 'root';
   $dbPassword = 'password';
   $pdo = new PDO(
